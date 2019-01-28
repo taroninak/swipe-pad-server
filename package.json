@@ -1,0 +1,30 @@
+{
+  "name": "swipe-pad-server",
+  "version": "0.0.1",
+  "description": "Server for SwipePad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swipe",
+    "server",
+    "touchpad",
+    "trackpad",
+    "swipe-pad",
+    "touch",
+    "gestures"
+  ],
+  "author": "Taron Petrosyan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "bin/"
+  ]
+}
